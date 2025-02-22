@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color: silver;
     padding: 10px;
 }
 
@@ -23,7 +23,7 @@ main {
 footer {
     margin-top: 20px;
     background-color: #333;
-    color: white;
+    color: silver;
     padding: 10px;
 }
 
